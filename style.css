@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(221, 231, 219);
+    padding-bottom: 50px;
+}
+
+.card {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+#msg-vacio {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    color: #6c757d;
+}
+
+.btn-danger.btn-sm {
+    padding: 2px 8px;
+    font-weight: bold;
+}
